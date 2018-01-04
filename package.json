@@ -1,0 +1,30 @@
+{
+  "name": "finances_02",
+  "version": "2.0.0",
+  "description": "finances program version using node js as backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wintersocram/finances_02.git"
+  },
+  "keywords": [
+    "finances",
+    "wintersocram",
+    "nodeJs",
+    "wamp",
+    "mysql",
+    "angularJs"
+  ],
+  "author": "wintersocram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wintersocram/finances_02/issues"
+  },
+  "homepage": "https://github.com/wintersocram/finances_02#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
